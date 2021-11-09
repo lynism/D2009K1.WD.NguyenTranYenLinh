@@ -165,7 +165,7 @@ section{
 	grid-template-columns: auto auto auto auto;
 	grid-template-rows: 300px;
 	grid-column-gap: 40px;
-	padding: 0px 0px 0px 100px;
+	padding: 0px 0px 0px 65px;
 }
 .item1{
 	width: 300px;
@@ -207,14 +207,25 @@ section{
 	background-color: #ffcd80;
 	border-radius: 50%;
 }
-
 .nd{
 	display: grid;
 	grid-template-columns: auto auto auto auto;
 	grid-template-rows: 275px;
-	grid-column-gap: 25px;
+	grid-column-gap: 40px;
+	padding: 35px 0px 0px 65px;
 	text-align: center;
-	padding: 50px 70px 0px 35px;
+}
+.nd1{
+	width: 300px;
+}
+.nd2{
+	width: 300px;
+}
+.nd3{
+	width: 300px;
+}
+.nd4{
+	width: 300px;
 }
 .nd h2{
 	color: #f48b48;
